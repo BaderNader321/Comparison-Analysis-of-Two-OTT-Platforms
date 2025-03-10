@@ -69,7 +69,25 @@ Imagine yourself as Peter Pandey and perform the following tasks:
 
 ### Business Related Terms
 
-
+**1. Total content count:**
+**2. Total Run Time:**
+**3. Average Run Time:**
+**4. Total users:**
+**5. Paid users:**
+**6. Paid users %:**
+**7. Active users:**
+**8. Inactive users:** 
+**9. Inactive Rate (%):**
+**10. Active Rate (%):**
+**11. Non-Upgraded users:**
+**12. Non-Upgraded Rate (%):**
+**13. Upgraded users:**
+**14. Upgrade Rate (%):**
+**15. Downgraded users:**
+**16. Downgrade Rate (%):**
+**17. Total watch time (Hrs):**
+**18. Average watch time (Hrs):**
+**19. Upgrade / Downgrade Rate (%):**
 
 ### Key Learnings
 
@@ -162,48 +180,60 @@ There are five dashboards providing insights into various aspects of the two pla
 
 ### Home Page
 
+<br>
 <img src="" class="center">
 
 ### Jotstar DB
 
 #### Subscriber Insights
 
+<br>
 <img src="" class="center">
 
 #### Upgrade and Downgrade Patterns
 
+<br>
 <img src="" class="center">
 
 #### Inactivity Analysis
 
+<br>
 <img src="" class="center">
+
 
 #### Content Library Analysis
 
+<br>
 <img src="" class="center">
 
 #### Consumption Behavior
 
+<br>
 <img src="" class="center">
 
 ### Liocinema DB
 
 #### Subscriber Insights
 
+<br>
 <img src="" class="center">
 
 #### Upgrade and Downgrade Patterns
 
+<br>
 <img src="" class="center">
 
 #### Inactivity Analysis
 
+<br>
 <img src="" class="center">
 
 #### Content Library Analysis
 
+<br>
 <img src="" class="center">
 
 #### Consumption Behavior
 
+<br>
 <img src="" class="center">
