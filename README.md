@@ -69,25 +69,24 @@ Imagine yourself as Peter Pandey and perform the following tasks:
 
 ### Business Related Terms
 
-1. **Total content count:**
-2. **Total Run Time:**
-3. **Average Run Time:**
-4. **Total users:**
-5. **Paid users:**
-6. **Paid users %:**
-7. **Active users:**
-8. **Inactive users:** 
-9. **Inactive Rate (%):**
-10. **Active Rate (%):**
-11. **Non-Upgraded users:**
-12. **Non-Upgraded Rate (%):**
-13. **Upgraded users:**
-14. **Upgrade Rate (%):**
-15. **Downgraded users:**
-16. **Downgrade Rate (%):**
-17. **Total watch time (Hrs):**
-18. **Average watch time (Hrs):**
-19. **Upgrade / Downgrade Rate (%):**
+1. **Total Content Count:** This is the number of different pieces of content we have in our library. We're counting each unique item, so even if something appears multiple times, it only counts once.
+2. **Total Run Time (Hrs):** This is the total amount of time all of our content takes to run, measured in hours. We've added up the runtime of every piece of content to get this number.
+3. **Average Run Time (Hrs):** This is the average amount of time each piece of content takes to run, measured in hours. We calculated this by adding up the runtime of all content and then dividing by the number of pieces of content.
+4. **Total Users:** This is the total number of unique users. We count each user only once, even if they've logged in multiple times or have done multiple actions.
+5. **Paid Users:** These are the users who have a Premium or VIP subscription. We know they're paid users because their 'Subscription Plan' or 'New Subscription Plan' columns show 'Premium' or 'VIP'.
+6. **Paid Users %:** This shows the percentage of all Jotstar users who have a paid subscription (Premium or VIP). It's calculated by dividing the number of paid users by the total number of users and then multiplying by 100.
+7. **Free Users:** These are the users who are currently using the free version of Jotstar. We can identify them by looking at the 'Subscription Plan' and 'New Subscription Plan' columns, where it will say 'Free'.
+8. **Free Users (%):** This shows the percentage of all Jotstar users who are using the free version. It's calculated by dividing the number of free users by the total number of users and then multiplying by 100.
+9. **Active Users:** These are the users who are currently active on Jotstar. We know they're active when we don't see a 'Last Active Date' listed for them. If that date is empty, it means they're still actively using the platform.
+10. **Inactive Users:** These are users who haven't been active recently. We can tell because their 'Last Active Date' shows when they last used Jotstar. If there is a date in that column, they are considered inactive. 
+11. **Inactive Rate (%):** This shows the percentage of all Jotstar users who are currently inactive. It's calculated by dividing the number of inactive users by the total number of users and then turning that into a percentage.
+12. **Active Rate (%):** This shows the percentage of all Jotstar users who are currently active. It's calculated by dividing the number of active users by the total number of users and then turning that into a percentage. 
+13. **Non-Upgraded Rate (%):** This is the percentage of users who haven't changed their plan. We look for users where we don't have any information on a plan change.
+14. **Upgrade Rate (%):** This is the percentage of users who have moved to a more expensive plan. For example, people who went from a free plan to a Premium or VIP plan, or from a Premium plan to a VIP plan.
+15. **Downgrade Rate (%):** This is the percentage of users who have moved to a cheaper plan. For example, people who went from a basic or premium plan to a free plan, or from a premium plan to a basic plan.
+16. **Total Watch Time (Hrs):** This is the total amount of time all users have spent watching our content, measured in hours. We've added up the watch time of every single viewing to get this number.
+17. **Average Watch Time (Hrs):** This is the average amount of time each viewing of our content lasts, measured in hours. We calculated this by adding up all the watch time and then dividing by the total number of views.
+18. **Upgrade / Downgrade Rate (%):** This shows the overall balance. Are more people moving to better (upgrading) or less expensive (downgrading) plans? It's the difference between those two groups, shown as a percentage of all our users.
 
 ### Key Learnings
 
@@ -172,11 +171,11 @@ This database contains detailed data on content, subscribers, and content consum
 
 There are five dashboards providing insights into various aspects of the two platforms.
 
-1. **Content Library Analysis:** A comparative analysis of content types across both platforms, highlighting diversity, genre distribution, and runtime variations.
-2. **Subscriber Insights:** An exploration of subscriber trends, including acquisition patterns and demographic differences.
-3. **Inactivity Analysis:** An assessment of inactivity trends based on age groups, city tiers, and subscription plans, identifying potential retention challenges.
-4. **Upgrade and Downgrade Patterns:** A deep dive into subscription transitions, examining factors influencing upgrades and analyzing trends associated with downgrades.
-5. **Content Consumption Behavior:** An analysis of user engagement, including total watch time, device preferences, and variations based on demographic factors.
+1. **Content Library Analysis:** This dashboard explores the content available on the platform. It includes total content count, run time, and a breakdown of content by type, genre, and language. Key visuals include bar charts for content distribution across genres and languages, and a matrix comparing content type against total content count.
+2. **Subscriber Insights:** This dashboard provides an overview of user demographics and subscription trends. It displays total, paid, and free user counts, along with their percentages. The visuals include a breakdown of user growth by age group, city tier, and device type, a stacked bar chart of subscription plan trends over time, and an age-group distribution comparison across subscription types.
+3. **Inactivity Analysis:** This dashboard tracks user engagement by highlighting inactive users. It presents metrics on total users, active and inactive users, and their percentages. Visuals include a table showing inactive users by month and age group, a bar chart comparing active vs. inactive users by city tier, and a stacked bar chart of monthly activity trends.
+4. **Upgrade and Downgrade Patterns:** This dashboard analyzes user subscription changes, showcasing upgrade and downgrade percentages. Key visuals include a Sankey chart illustrating user flow between plans, a bar chart for upgrade/downgrade timing, and a breakdown of subscription changes by age group and city tier.
+5. **Content Consumption Behavior:** This dashboard provides insights into user watch time and device usage. It features total and average watch time, a stacked bar chart of watch time by subscription plan over quarters, a treemap of device types used for content consumption, and a bar chart showing average watch time by age group and device type.
 
 ### Home Page
 
