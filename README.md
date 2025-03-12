@@ -14,6 +14,9 @@
     * [Business Problem](#business-problem)
     * [Approach & Methodology](#approach-and-methodology)
     * [Key Insights & Outcomes](#key-insights-and-outcomes)
+         * [Analysis of Metrics](#analysis-of-metrics:-jotstar-vs.-liocinema)
+         * [Jotstar Monthly Trends Analysis](#jotstar-monthly-trends-analysis)
+         * [Liocinema Monthly Trends Analysis](#liocinema-monthly-trends-analysis)
     * [Questions for Business Analysis](#questions-for-business-analysis)
     * [Business Related Terms](#business-related-terms)
     * [Key Learnings](#key-learnings)
@@ -121,7 +124,122 @@ A final report and presentation were prepared, summarizing insights with actiona
 - **Jotstar focuses more on paid users, has higher engagement, and a bigger content library.**  
 - **Liocinema has a larger user base but struggles with engagement, as more of its users are inactive and prefer free plans.**  
 - **Jotstar users are more likely to switch plans, while Liocinema users tend to stick with their current subscription.**  
-- **Jotstar leads in total watch time, suggesting stronger content consumption.**  
+- **Jotstar leads in total watch time, suggesting stronger content consumption.**
+
+### Jotstar Monthly Trends Analysis
+
+#### User Base Metrics
+
+#### Active vs Inactive Users
+* Active users show a steady growth trend, indicating successful user engagement strategies
+* Inactive user numbers remain relatively low, suggesting good user retention
+* The ratio between active and inactive users demonstrates healthy platform engagement
+
+#### User Type Distribution
+
+#### Free Users
+* Maintains a substantial base, representing the platform's primary user acquisition channel
+* Shows gradual month-over-month growth, indicating successful user acquisition
+* Serves as a potential pool for conversion to paid subscriptions
+
+#### Paid Users
+* Exhibits consistent growth, suggesting effective monetization strategies
+* Represents a stable revenue stream for the platform
+* Growth pattern indicates successful conversion from free to paid tiers
+
+#### Upgrade and Downgrade Patterns
+* Upgraded users show a positive trend, indicating effective premium feature marketing
+* Downgrade rates remain lower than upgrade rates, suggesting good value proposition
+* The positive difference between upgrades and downgrades indicates healthy business growth
+
+#### Non-Upgraded Users
+* Represents a significant opportunity for conversion
+* Fluctuates seasonally, suggesting potential timing for targeted upgrade campaigns
+* Provides insights for improvement in premium feature marketing
+
+#### Engagement Metrics
+
+#### Watch Time Analysis
+
+#### Total Watch Time
+* Shows an upward trend, indicating increasing platform engagement
+* Peaks during certain months, suggesting seasonal viewing patterns
+* Correlates with user growth and content popularity
+
+#### Average Watch Time
+* Maintains steady levels, indicating consistent user engagement
+* Slight variations month-to-month reflect changing content consumption patterns
+* Provides insights into content strategy effectiveness
+
+#### Key Insights
+
+#### Growth Indicators
+* Overall user base shows healthy growth across both free and paid segments
+* Positive upgrade-downgrade differential indicates successful retention strategies
+* Watch time metrics suggest strong user engagement and content appeal
+
+#### Areas of Opportunity
+* Non-upgraded users represent potential for conversion through targeted campaigns
+* Seasonal patterns in watch time can be leveraged for content strategy
+* User engagement patterns can inform future feature development
+
+#### Strategic Implications
+* Focus on maintaining high engagement levels among active users
+* Continue optimizing upgrade pathways to maintain positive conversion rates
+* Leverage watch time data to enhance content recommendations and user experience
+
+### Liocinema Monthly Trends Analysis
+
+#### User Base Metrics
+
+#### Total Users
+* Steady growth in the overall user base throughout the period
+* Consistent month-over-month increase indicates successful user acquisition strategies
+* The growth trajectory suggests effective marketing and platform appeal
+
+#### Active vs Inactive Users
+* Active users show a positive trend, representing engaged audience
+* Inactive users remain relatively low, suggesting good user retention
+* Monthly fluctuations in active users align with typical streaming service patterns
+
+#### User Type Distribution
+
+#### Free vs Paid Users
+* Free users maintain a substantial base, serving as potential conversion opportunities
+* Paid users show gradual increase, indicating successful monetization
+* The ratio between free and paid users suggests room for conversion optimization
+
+#### User Conversion Metrics
+* Upgraded users demonstrate consistent positive momentum
+* Downgraded users remain minimal, suggesting good value proposition
+* The positive difference between upgrades and downgrades indicates strong user satisfaction
+* Non-upgraded users present ongoing conversion opportunities
+
+#### Watch Time Analysis
+
+#### Total Watch Time
+* Overall watch time shows upward trend, indicating growing content engagement
+* Monthly variations reflect seasonal viewing patterns
+* Peak viewing periods align with content release strategies
+
+#### Average Watch Time
+* Consistent average watch time per user suggests stable engagement levels
+* Slight monthly fluctuations indicate content consumption patterns
+* Higher average watch times correlate with new content releases
+
+#### Key Insights
+* Strong user base growth with healthy conversion rates
+* Effective user retention with low downgrade rates
+* Robust engagement metrics in terms of watch time
+* Clear opportunity for converting free users to paid subscriptions
+* Seasonal patterns influence viewing behavior and engagement
+
+#### Recommendations
+* Focus on converting non-upgraded users through targeted campaigns
+* Maintain content quality to sustain high watch times
+* Leverage peak viewing periods for new content releases
+* Implement strategies to re-engage inactive users
+* Continue monitoring upgrade-downgrade differential for early warning signals
 
 ### Questions for Business Analysis
 
