@@ -93,7 +93,35 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 ### Key Insights and Outcomes
 
+#### **Comparison Analysis: Jotstar vs. Liocinema**
 
+#### **User Base & Subscription Types**
+- **Liocinema has a much larger user base** than Jotstar, with **four times more users** (183.45K vs. 44.62K).  
+- **Jotstar has a higher percentage of paying users** (67.57% paid vs. 32.43% free).  
+- **Liocinema, on the other hand, has more free users** (33.09% paid vs. 66.91% free).  
+- This means **Jotstar is more reliant on paid subscriptions**, while **Liocinema attracts more free users**.  
+
+#### **Subscription Plan Changes**
+- **More users downgrade their plans than upgrade on both platforms**:  
+  - **Jotstar**: 11.64% downgraded, 4.25% upgraded.  
+  - **Liocinema**: 11.37% downgraded, 2.26% upgraded.  
+- However, **most users (over 80%) don't change their plans** at all.  
+- When comparing upgrades and downgrades, **Jotstar users are more likely to switch plans** than Liocinema users.  
+
+#### **User Engagement (Active vs. Inactive Users)**
+- **Jotstar has a much higher percentage of active users (85.09%)** compared to Liocinema (55.13%).  
+- **Liocinema has nearly half of its users inactive (44.87%)**, which is significantly higher than Jotstar (14.91%).  
+- This suggests that **Jotstar’s users are more engaged**, while Liocinema struggles with inactive users.  
+
+#### **Content Library & Watch Time**
+- **Jotstar offers more content** (2.36K titles with a total runtime of 3.52K hours) compared to **Liocinema’s smaller library** (1.25K titles with 2.14K hours).  
+- **Jotstar also has a higher total watch time** (15.69M hours) than Liocinema (11.03M hours), indicating that users spend more time watching content on Jotstar.  
+
+#### **Key Takeaways**
+- **Jotstar focuses more on paid users, has higher engagement, and a bigger content library.**  
+- **Liocinema has a larger user base but struggles with engagement, as more of its users are inactive and prefer free plans.**  
+- **Jotstar users are more likely to switch plans, while Liocinema users tend to stick with their current subscription.**  
+- **Jotstar leads in total watch time, suggesting stronger content consumption.**  
 
 ### Questions for Business Analysis
 
