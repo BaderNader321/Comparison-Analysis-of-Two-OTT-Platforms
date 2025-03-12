@@ -68,6 +68,8 @@ Imagine yourself as Peter Pandey and perform the following tasks:
 - **Metadata** describing the dataset structure.  
 - **Supporting Documents** for further reference.  
 
+***
+
 ### Approach and Methodology
 
 To analyze and compare the performance of LioCinema and Jotstar, we followed a structured approach:
@@ -98,6 +100,8 @@ After the initial dashboard development, we refined the design based on feedback
 
 #### 9. Creating a Detailed Report
 A final report and presentation were prepared, summarizing insights with actionable recommendations for LioCinema’s management. The report included visual breakdowns of trends, key takeaways, and strategies to optimize the merger’s success.
+
+***
 
 ### Key Insights and Outcomes
 
@@ -130,6 +134,8 @@ A final report and presentation were prepared, summarizing insights with actiona
 - **Liocinema has a larger user base but struggles with engagement, as more of its users are inactive and prefer free plans.**  
 - **Jotstar users are more likely to switch plans, while Liocinema users tend to stick with their current subscription.**  
 - **Jotstar leads in total watch time, suggesting stronger content consumption.**
+
+***
 
 ### Jotstar Monthly Trends Analysis
 
@@ -193,6 +199,8 @@ A final report and presentation were prepared, summarizing insights with actiona
 * Continue optimizing upgrade pathways to maintain positive conversion rates
 * Leverage watch time data to enhance content recommendations and user experience
 
+***
+
 ### Liocinema Monthly Trends Analysis
 
 #### User Base Metrics
@@ -245,6 +253,63 @@ A final report and presentation were prepared, summarizing insights with actiona
 * Leverage peak viewing periods for new content releases
 * Implement strategies to re-engage inactive users
 * Continue monitoring upgrade-downgrade differential for early warning signals
+
+***
+
+### Upgrade and Downgrade Patterns
+
+#### Liocinema Insights  
+
+- **Users Who Haven’t Upgraded**  
+  - The majority of non-upgraded users are on the **Free plan (64.51%)**, followed by **Basic (26.31%)**, and **Premium (9.18%)**.  
+  - **Younger users (18-24) are the least likely to upgrade (44.09%)**, possibly due to budget constraints.  
+  - **Tier 3 cities have the highest percentage of non-upgraders (45.22%)**, suggesting lower purchasing power or less interest in premium content.  
+
+- **Upgrade & Downgrade Patterns**  
+  - **More free users moved to the Basic plan (2,078 users) than Premium (715 users)**, indicating that affordability plays a key role in upgrades.  
+  - **Basic users are more likely to downgrade than upgrade**, with **10,309 downgrading to Free**, while only **1,362 moved to Premium**.  
+  - **Premium users saw significant downgrades**, with **7,439 moving to Free**, while **3,111 downgraded to Basic**.  
+    - This suggests **Premium pricing might not be sustainable for many users**, and they prefer the affordability of lower-tier plans.  
+
+- **Who Is More Likely to Upgrade?**  
+  - **Users aged 35-44 make up the largest share of upgraded users (39.18%)**, followed by those aged 25-34 (31.29%).  
+    - This indicates that **middle-aged users are more willing to pay for premium content**.  
+  - **Tier 1 cities have the highest upgrade rate (45.34%)**, likely due to better income levels and stronger interest in paid content.  
+
+- **Who Is More Likely to Downgrade?**  
+  - **Young adults (18-24) have the highest downgrade rate (45.50%)**, possibly due to financial limitations.  
+  - **Tier 2 cities show the most downgrades (39.38%)**, suggesting affordability concerns.  
+
+#### Jotstar Insights  
+
+- **Users Who Haven’t Upgraded**  
+  - Unlike Liocinema, Jotstar’s non-upgraded users are spread across all plans:  
+    - **VIP (37.8%)**, **Premium (34.04%)**, and **Free (28.16%)**.  
+  - **Users aged 25-34 are the least likely to upgrade (45.20%)**, followed by those aged 35-44 (24.51%).  
+  - **Tier 1 cities have the highest percentage of non-upgraders (57.04%)**, which is surprising given their high upgrade rates.  
+
+- **Upgrade & Downgrade Patterns**  
+  - **More free users upgraded to VIP (844 users) than Premium (683 users)**, suggesting that **users see value in skipping mid-tier plans**.  
+  - **VIP users were more likely to downgrade than upgrade**, with **2,821 downgrading to Premium** and **2,149 dropping to Free**.  
+  - **Premium users showed relatively lower movement**, with only **368 upgrading to VIP and 225 downgrading to Free**.  
+
+- **Who Is More Likely to Upgrade?**  
+  - **Users aged 25-34 are the biggest group of upgraded users (42.48%)**, followed by 35-44 (31.24%).  
+  - **Tier 1 cities dominate upgrades (61.53%)**, indicating a strong preference for paid content in urban areas.  
+
+- **Who Is More Likely to Downgrade?**  
+  - **The highest downgrade rate is among users aged 25-34 (44.27%)**, followed by 35-44 (28.59%).  
+  - **Surprisingly, Tier 1 cities also have the highest downgrade rate (55.42%)**, meaning some urban users might be reconsidering their premium subscriptions.  
+
+#### Key Takeaways  
+
+- **Liocinema’s Free plan dominates, while Jotstar has a more balanced user base across plans.**  
+- **Younger users (18-24) are least likely to upgrade and most likely to downgrade on Liocinema.**  
+- **Tier 1 users in Jotstar are highly engaged but also downgrade frequently, which could indicate price sensitivity.**  
+- **VIP upgrades on Jotstar suggest users may prefer skipping mid-tier plans when upgrading.**  
+- **Liocinema’s premium retention is weaker, with many Premium users downgrading to Free or Basic.**  
+
+***
 
 ### Content Library Analysis
 
@@ -304,6 +369,41 @@ A final report and presentation were prepared, summarizing insights with actiona
 - **Liocinema is ideal for users who prefer a strong movie catalog, especially in Hindi and regional Indian languages**.  
 - **Jotstar appeals to a wider audience with action-heavy content, sports events, and a mix of English & Hindi programming**.
 
+***
+
+### Content Consumption Behaviour
+
+- **Jotstar Viewing Trends**  
+  - **Device Preferences:** Most users watch content on **mobile devices (50.06%)**, followed by **TV (26.93%)** and **laptops (23.02%)**.  
+    - Mobile’s popularity suggests that users prefer on-the-go entertainment, while TV is still a key platform for home viewing.  
+  - **Who Watches the Most?**  
+    - **Young adults aged 25-34 contribute nearly half (45.68%) of the total watch time.**  
+  - **Subscription-Based Viewing:**  
+    - **Premium users account for the highest watch time (51.81%)**, followed by **VIP (31.22%)**, while **free users contribute the least (16.97%)**.  
+    - This indicates that **paid users are more engaged** and likely getting value from their subscription.  
+  - **Where Are Viewers Located?**  
+    - **Tier 1 cities contribute the majority of total watch time (63.92%)**, showing that urban users are the most active consumers of Jotstar’s content.  
+
+- **Liocinema Viewing Trends**  
+  - **Device Preferences:** A significant majority of users prefer watching on **mobile (76.57%)**, with much lower engagement on **TV (14.18%)** and **laptops (9.25%)**.  
+    - This suggests that **Liocinema is a mobile-first platform**, likely due to its content format or target audience preferences.  
+  - **Who Watches the Most?**  
+    - **Viewers aged 18-24 contribute the most watch time (44.55%)**, meaning **a younger audience dominates engagement** compared to Jotstar.  
+  - **Subscription-Based Viewing:**  
+    - **Free users account for the highest share of total watch time (47.92%)**, followed by **Basic (34.21%)** and **Premium (17.87%)**.  
+    - Unlike Jotstar, where paid users dominate watch time, **Liocinema relies more on its free-tier audience for engagement.**  
+  - **Where Are Viewers Located?**  
+    - **Tier 2 cities make up the largest share (39.02%)**, followed by **Tier 1 (33.46%)** and **Tier 3 (27.52%)**.  
+    - This suggests **Liocinema has broader reach across different city tiers**, whereas Jotstar is more concentrated in urban areas.  
+
+- **Key Takeaways**  
+  - **Jotstar has a more balanced device usage, while Liocinema is heavily mobile-driven.**  
+  - **Jotstar’s primary audience is aged 25-34, whereas Liocinema skews younger (18-24).**  
+  - **Paid subscribers on Jotstar watch significantly more content, while Liocinema’s free users dominate engagement.**  
+  - **Jotstar’s viewership is concentrated in Tier 1 cities, while Liocinema has a wider spread across city tiers.**
+
+***
+
 ### Questions for Business Analysis
 
 #### Primary Questions
@@ -335,7 +435,9 @@ A final report and presentation were prepared, summarizing insights with actiona
 4. How can the platform leverage partnerships with telecom companies to expand its subscriber base?
 5. What role can AI and machine learning play in personalizing the user experience and improving content discovery?
 6. Who should be the brand ambassador for the newly merged OTT platform (LioCinema-Jotstar) to effectively represent its identity and attract a diverse audience?
-    
+
+***
+
 ### Business Related Terms
 
 1. **Total Content Count:** This is the number of different pieces of content we have in our library. We're counting each unique item, so even if something appears multiple times, it only counts once.
@@ -357,9 +459,13 @@ A final report and presentation were prepared, summarizing insights with actiona
 17. **Average Watch Time (Hrs):** This is the average amount of time each viewing of our content lasts, measured in hours. We calculated this by adding up all the watch time and then dividing by the total number of views.
 18. **Upgrade / Downgrade Rate (%):** This shows the overall balance. Are more people moving to better (upgrading) or less expensive (downgrading) plans? It's the difference between those two groups, shown as a percentage of all our users.
 
+***
+
 ### Key Learnings
 
 
+
+***
 
 ## Understanding the Datasets
 
@@ -431,6 +537,7 @@ This database contains detailed data on content, subscribers, and content consum
 - `device_type`: Type of device used to consume content (e.g., `Mobile`, `TV`, `Tablet`).
 - `total_watch_time (mins)`: Total time spent watching content in minutes (e.g., `13598`, `2105`).
 
+***
 
 ## Data Modelling
 
