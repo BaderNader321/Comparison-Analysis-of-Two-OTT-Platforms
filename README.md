@@ -14,7 +14,7 @@
     * [Business Problem](#business-problem)
     * [Approach & Methodology](#approach-and-methodology)
     * [Key Insights & Outcomes](#key-insights-and-outcomes)
-         * [Analysis of Metrics](#analysis-of-metrics:-jotstar-vs.-liocinema)
+         * [Analysis of Metrics](#analysis-of-metrics-jotstar-vs-liocinema)
          * [Jotstar Monthly Trends Analysis](#jotstar-monthly-trends-analysis)
          * [Liocinema Monthly Trends Analysis](#liocinema-monthly-trends-analysis)
     * [Questions for Business Analysis](#questions-for-business-analysis)
