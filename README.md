@@ -17,6 +17,11 @@
          * [Analysis of Metrics](#analysis-of-metrics-jotstar-vs-liocinema)
          * [Jotstar Monthly Trends Analysis](#jotstar-monthly-trends-analysis)
          * [Liocinema Monthly Trends Analysis](#liocinema-monthly-trends-analysis)
+         * [Subscriber Insights](#subscriber-insights)
+         * [Upgrade & Downgrade Patterns](#upgrade-and-downgrade-patterns)
+         * [Inactivity Analysis](#inactivity-analysis)
+         * [Content Library Analysis](#content-library-analysis)
+         * [Content Consumption Behaviour](#content-consumption-behaviour)
     * [Questions for Business Analysis](#questions-for-business-analysis)
     * [Business Related Terms](#business-related-terms)
     * [Key Learnings](#key-learnings)
@@ -240,6 +245,64 @@ A final report and presentation were prepared, summarizing insights with actiona
 * Leverage peak viewing periods for new content releases
 * Implement strategies to re-engage inactive users
 * Continue monitoring upgrade-downgrade differential for early warning signals
+
+### Content Library Analysis
+
+#### Liocinema Insights  
+
+- **Movies dominate the platform**, making up **72% of all content (900 items)**.  
+- **Series** account for **24%**, while **Sports content** is minimal at **4%**.  
+- **Movies also contribute the most to total watchable hours**, making up **88.65% of total run time (1.9K hours)**.  
+  - This suggests Liocinema focuses more on **long-form storytelling**, with fewer series and sports events.  
+
+- **Most Popular Genres (By Content Count)**  
+  - **Drama (31.60%)** leads the content library, followed by **Comedy (16.80%)** and **Action (13.36%)**.  
+  - This indicates that **Liocinema caters more to audiences who enjoy emotional and light-hearted content**.  
+
+- **Most Popular Languages (By Content Count)**  
+  - **Hindi is the most dominant language (33.92%)**, followed by **Telugu (19.36%)** and **Tamil (17.68%)**.  
+  - This shows a strong focus on regional Indian content, likely appealing to a **diverse linguistic audience**.  
+
+- **Most Watched Genres (By Total Run Time)**  
+  - **Drama (30.07%)** is the most consumed genre, followed by **Comedy (16.90%)** and **Action (13.61%)**.  
+  - Since **Drama has both the highest content count and watch time**, it is likely a core offering that keeps users engaged.  
+
+- **Most Watched Languages (By Total Run Time)**  
+  - **Hindi (32.50%)** leads in total hours watched, followed by **Telugu (20.38%)** and **Tamil (18.55%)**.  
+  - This aligns with content availability, confirming that Hindi-language content is **both widely available and widely watched**.
+ 
+#### Jotstar Insights  
+
+- **Movies and series are more balanced**, with **Movies making up 50% (1,180 items)** and **Series at 35%**.  
+- **Sports content is significantly higher than Liocinema at 15%**.  
+- In terms of total run time, **Movies contribute 69.51% (2.4K hours)**, followed by **Sports (17.79%)** and **Series (12.7%)**.  
+  - This suggests that Jotstar is **investing in sports content**, which typically has high engagement.  
+
+- **Most Popular Genres (By Content Count)**  
+  - **Action (16.86%)** is the most common genre, followed closely by **Drama (16.40%)** and **Thriller (12.20%)**.  
+  - Unlike Liocinema, **Jotstar focuses more on action-packed and suspenseful content**.  
+
+- **Most Popular Languages (By Content Count)**  
+  - **English (33.90%)** is the top language, followed by **Hindi (26.99%)** and **Tamil (10.64%)**.  
+  - This indicates Jotstar has a **more international audience** compared to Liocinema.  
+
+- **Most Watched Genres (By Total Run Time)**  
+  - **Live Matches (16.18%)** contribute the most to watch time, followed by **Drama (16.12%)** and **Action (15.96%)**.  
+  - The high percentage of **live matches suggests a strong sports viewership on Jotstar**, making it a key differentiator from Liocinema.  
+
+- **Most Watched Languages (By Total Run Time)**  
+  - **English (30.97%)** leads in total watch time, followed by **Hindi (28.78%)** and **Telugu (11.19%)**.  
+  - This reinforces that Jotstar serves both **English and Hindi-speaking audiences**, with a smaller but notable Telugu audience.
+ 
+#### Key Takeaways  
+
+- **Liocinema heavily invests in movies**, with Drama being the top genre.  
+- **Jotstar has a more balanced content strategy**, with a mix of movies, series, and sports.  
+- **Jotstar has 3x more sports content than Liocinema**, and live matches drive significant watch time.  
+- **Liocinema focuses on Indian languages (Hindi, Telugu, Tamil), while Jotstar has a stronger English presence**.  
+- **Jotstar has a larger content library**, but Liocinema’s **movie-dominated strategy leads to higher watch time per item**.  
+- **Liocinema is ideal for users who prefer a strong movie catalog, especially in Hindi and regional Indian languages**.  
+- **Jotstar appeals to a wider audience with action-heavy content, sports events, and a mix of English & Hindi programming**.
 
 ### Questions for Business Analysis
 
