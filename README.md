@@ -18,7 +18,7 @@
          * [Jotstar Monthly Trends Analysis](#jotstar-monthly-trends-analysis)
          * [Liocinema Monthly Trends Analysis](#liocinema-monthly-trends-analysis)
          * [Subscriber Insights](#subscriber-insights)
-         * [Upgrade & Downgrade Patterns](#upgrade-downgrade-patterns)
+         * [Upgrade & Downgrade Patterns](#upgrade-and-downgrade-patterns)
          * [Inactivity Analysis](#inactivity-analysis)
          * [Content Library Analysis](#content-library-analysis)
          * [Content Consumption Behaviour](#content-consumption-behaviour)
@@ -158,7 +158,7 @@ A final report and presentation were prepared, summarizing insights with actiona
 * Represents a stable revenue stream for the platform
 * Growth pattern indicates successful conversion from free to paid tiers
 
-#### Upgrade and Downgrade Patterns
+#### Upgrade & Downgrade Patterns
 * Upgraded users show a positive trend, indicating effective premium feature marketing
 * Downgrade rates remain lower than upgrade rates, suggesting good value proposition
 * The positive difference between upgrades and downgrades indicates healthy business growth
@@ -256,7 +256,7 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 ***
 
-### Upgrade & Downgrade Patterns
+### Upgrade and Downgrade Patterns
 
 #### Liocinema Insights  
 
