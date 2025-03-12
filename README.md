@@ -18,7 +18,7 @@
          * [Jotstar Monthly Trends Analysis](#jotstar-monthly-trends-analysis)
          * [Liocinema Monthly Trends Analysis](#liocinema-monthly-trends-analysis)
          * [Subscriber Insights](#subscriber-insights)
-         * [Upgrade & Downgrade Patterns](#upgrade-and-downgrade-patterns)
+         * [Upgrade & Downgrade Patterns](#upgrade-downgrade-patterns)
          * [Inactivity Analysis](#inactivity-analysis)
          * [Content Library Analysis](#content-library-analysis)
          * [Content Consumption Behaviour](#content-consumption-behaviour)
@@ -256,7 +256,7 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 ***
 
-### Upgrade and Downgrade Patterns
+### Upgrade & Downgrade Patterns
 
 #### Liocinema Insights  
 
