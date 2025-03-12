@@ -93,7 +93,7 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 ### Key Insights and Outcomes
 
-#### **Comparison Analysis: Jotstar vs. Liocinema**
+#### **Analysis of Metrics: Jotstar vs. Liocinema**
 
 #### **User Base & Subscription Types**
 - **Liocinema has a much larger user base** than Jotstar, with **four times more users** (183.45K vs. 44.62K).  
