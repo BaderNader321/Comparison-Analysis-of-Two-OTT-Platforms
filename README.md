@@ -1,12 +1,12 @@
 # Comparison Analysis of OTT Platforms
 
 ### Quick Links
-  * [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDU3ZmYwNWYtOWYxMS00MDNhLWEyZTctYWRjMzUxMDMwODRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-  * [LinkedIn Post](https://www.linkedin.com/posts/badernader_business-insight-360-activity-7264969422296031232-T1a7?utm_source=share&utm_medium=member_desktop)
-  * [Presentation Video](https://youtu.be/4qEMS7RKdic)
+  * [Live Dashboard](https://app.powerbi.com/links/gzC0cKmK4N?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+  * [LinkedIn Post]()
+  * [Presentation Video]()
   * Project Files
-    * [PBIX]()
-    * [PPT]()
+    * [PBIX](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/0508a68a7f26dd78946ec7bab6de86fb051f4c54/Solutions/Comparison%20Analysis%20of%20OTT%20Platforms.pbix)
+    * [PPT](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/0508a68a7f26dd78946ec7bab6de86fb051f4c54/Solutions/Presentation%20File.pptx)
     * [PDF]()
 
 ### Table of Contents
