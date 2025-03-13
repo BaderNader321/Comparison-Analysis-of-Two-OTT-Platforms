@@ -1,7 +1,7 @@
 # Comparison Analysis of OTT Platforms
 
 ### Quick Links
-  * [Live Dashboard]([https://app.powerbi.com/links/gzC0cKmK4N?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare](https://app.powerbi.com/view?r=eyJrIjoiZTZlZmJiMjAtMDhjZC00ZDlkLTliMWItNTQyZTNkYjNiZjM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+  * [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTZlZmJiMjAtMDhjZC00ZDlkLTliMWItNTQyZTNkYjNiZjM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
   * [LinkedIn Post]()
   * [Presentation Video]()
   * Project Files
