@@ -256,6 +256,54 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 ***
 
+### Subscriber Insights
+
+- **Jotstar**  
+  - The **25-34 age group** is more likely to pay for a subscription, with **31.64% of paid users** coming from this group, compared to only **13.34% of free users**.  
+  - Among paid users, the split between **Premium (51.72%) and VIP (48.28%)** is nearly even, showing balanced demand for both plans.  
+  - **Tier 1 cities** dominate in paid users (**63.23%**), suggesting that people in major cities are more willing to pay for content.  
+  - **Free users** are more evenly distributed across city tiers, but **Tier 1 (44.14%) still leads**, followed by **Tier 2 (33.88%)**.  
+
+- **Subscription Plan Ranking Over Time (Jotstar)**
+  - **Consistent Growth:** The total number of subscribers has gradually increased from **January to November**, reaching **4.32K in November.**
+  - **Free Plan Dominance:** The **Free plan** consistently had the highest number of subscribers across all months, suggesting that most users prefer free content.
+  - **Steady Premium Growth:** The **Premium plan** shows a steady increase over time, indicating growing interest in paid content.
+  - **VIP Plan Stability:** The **VIP plan** remains relatively stable throughout the year, with slight fluctuations.
+  - **Significant Increase in Q3 & Q4:** Subscription numbers saw a notable rise starting in **August**, continuing into **October and November**. This could be due to seasonal trends, promotions, or new content releases.
+
+- **Liocinema**  
+  - The **18-24 age group** is the biggest segment of paying users (**29.12%**), while only **14.39% of free users** come from this age group, indicating younger audiences are more likely to pay.  
+  - Most paid users prefer the **Basic plan (73.8%)**, while fewer opt for **Premium (26.2%)**, suggesting affordability is a key factor.  
+  - **Tier 2 cities lead in paid users (40.47%)**, followed by **Tier 3 (31.03%)**, showing that Liocinema’s paying audience comes more from mid-sized and smaller cities.  
+  - **Free users** are concentrated in **Tier 3 cities (48.68%)**, followed by **Tier 2 (32%)**, indicating that users in smaller cities prefer free content.
+
+- **Subscription Plan Ranking Over Time (Jotstar)**
+  - **Steady Growth in Subscriptions**  
+    - The total number of subscribers has increased consistently from **6.76K in January to 37.00K in November**, indicating strong user acquisition.  
+  
+  - **Free Plan Dominates Growth**  
+    - The **Free plan** has seen the most significant growth, reaching **22.60K users in November**, making up the largest share of the total subscriptions.  
+    - This suggests that more users are opting for free content, possibly due to affordability concerns or trial usage before upgrading.  
+  
+  - **Premium and Basic Plans Growing at a Slower Pace**  
+    - **Premium and Basic subscriptions have increased gradually**, but at a much slower rate compared to the Free plan.  
+    - **Premium subscriptions reached 10.07K in November**, showing consistent but moderate growth.  
+    - **Basic plan subscriptions have also increased but remain lower compared to Free and Premium.**  
+  
+  - **Significant Growth in Q4**  
+    - The largest spike in subscriptions happened in **October and November**, with numbers rising from **18.33K in October to 37.00K in November**.  
+    - This suggests possible promotional activities, seasonal demand, or content releases that attracted more users.  
+
+- **Key Takeaways**  
+  - **Jotstar** attracts more paying users from **Tier 1 cities and the 25-34 age group**, with a fairly balanced demand for Premium and VIP plans.  
+  - **Liocinema’s paid audience skews younger (18-24) and is mostly from Tier 2 and 3 cities**, with a strong preference for the **Basic plan over Premium**.  
+  - **Free users on both platforms are more spread across city tiers**, but **Jotstar sees more free users in Tier 1, while Liocinema’s free audience is mostly in Tier 3**.
+  - The platform is experiencing **steady user growth**, with the Free plan being the most popular choice.  
+  - **Paid subscriptions (Premium & Basic) are growing but not as fast**, indicating potential room for strategies like exclusive content or better incentives to convert free users.  
+  - **The biggest surge happened in Q4**, hinting at a successful marketing campaign or increased demand during this period.  
+
+***
+
 ### Upgrade and Downgrade Patterns
 
 #### Liocinema Insights  
@@ -308,6 +356,44 @@ A final report and presentation were prepared, summarizing insights with actiona
 - **Tier 1 users in Jotstar are highly engaged but also downgrade frequently, which could indicate price sensitivity.**  
 - **VIP upgrades on Jotstar suggest users may prefer skipping mid-tier plans when upgrading.**  
 - **Liocinema’s premium retention is weaker, with many Premium users downgrading to Free or Basic.**  
+
+***
+
+### Inactivity Analysis
+
+- **Jotstar Insights**  
+  - Most active users (44.63%) are aged **25-34**, showing that this age group is the most engaged.  
+  - **Tier 1 cities** have the highest engagement (58.23%), suggesting strong urban user activity.  
+  - Premium users make up the largest share of active users (40.5%), followed by VIP (33.61%) and Free (25.89%).  
+  - The majority of inactive users (46.98%) also belong to the **25-34** age group.  
+  - **Tier 1 cities** also have the highest number of inactive users (50.23%), meaning user retention in urban areas needs improvement.  
+  - Free users make up the largest portion of inactive users (46.8%), while premium users are the least likely to become inactive (13.54%).  
+
+- **Monthly Active vs. Inactive Users (Jotstar)**  
+  - **January had the highest activity (81.38%)**, possibly due to New Year trends and marketing efforts.  
+  - Engagement declined throughout the year, with **November showing the lowest active users (68.93%)**.  
+  - As active users decreased, inactive users increased, highlighting a retention challenge.  
+  - **The inactive user percentage remained stable (11% - 18%)**, suggesting a consistent disengaged user base.  
+
+- **Liocinema Insights**  
+  - Most active users (40.18%) are **18-24 years old**, showing that younger audiences drive engagement.  
+  - **Tier 2 cities** lead in active users (38.09%), with Tier 3 following at 19.49%, meaning suburban areas have strong engagement.  
+  - Free users make up the largest share of active users (59.48%), indicating a preference for free content.  
+  - The majority of inactive users (47.59%) are also from the **18-24** age group, showing that engagement retention is a challenge for younger users.  
+  - **Tier 3 cities** have the highest inactive users (52.04%), suggesting engagement struggles in rural areas.  
+  - Free users are the most likely to become inactive (72.65%), while premium users have the lowest inactivity rate (5.45%).  
+
+- **Monthly Active vs. Inactive Users (Liocinema)**  
+  - **January to September had consistently high inactive users (over 50%)**, with March peaking at 62.70% inactivity.  
+  - **A major shift happened in October and November, with active users reaching 71.49%**, likely due to new content, promotions, or seasonal trends.  
+  - The biggest changes occurred between **September to October and October to November**, signaling a turning point in user engagement.  
+
+- **Key Takeaways**  
+  - **Younger users (18-34) are the most engaged**, but also show high inactivity rates, highlighting the need for targeted retention strategies.  
+  - **Urban users (Tier 1) engage more with Jotstar, while suburban users (Tier 2) dominate Liocinema**, suggesting different audience preferences.  
+  - **Free users have the highest inactivity rates**, indicating that premium content or incentives could help retain them.  
+  - **Liocinema saw a significant user engagement boost in the last quarter**, possibly due to strategic campaigns or content releases.  
+  - **Jotstar experienced a steady decline in engagement over the year**, signaling a need for improved long-term user retention efforts.  
 
 ***
 
