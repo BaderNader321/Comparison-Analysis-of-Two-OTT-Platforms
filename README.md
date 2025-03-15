@@ -14,15 +14,17 @@
     * [Business Problem](#business-problem)
     * [Approach & Methodology](#approach-and-methodology)
     * [Key Insights & Outcomes](#key-insights-and-outcomes)
-         * [Analysis of Metrics](#analysis-of-metrics-jotstar-vs-liocinema)
-         * [Jotstar Monthly Trends Analysis](#jotstar-monthly-trends-analysis)
-         * [Liocinema Monthly Trends Analysis](#liocinema-monthly-trends-analysis)
-         * [Subscriber Insights](#subscriber-insights)
-         * [Upgrade & Downgrade Patterns](#upgrade-and-downgrade-patterns)
-         * [Inactivity Analysis](#inactivity-analysis)
-         * [Content Library Analysis](#content-library-analysis)
-         * [Content Consumption Behaviour](#content-consumption-behaviour)
-    * [Questions for Business Analysis](#questions-for-business-analysis)
+         * [General Insights](#general-insights)    
+              * [Analysis of Metrics](#analysis-of-metrics-jotstar-vs-liocinema)
+              * [Jotstar Monthly Trends Analysis](#jotstar-monthly-trends-analysis)
+              * [Liocinema Monthly Trends Analysis](#liocinema-monthly-trends-analysis)
+              * [Subscriber Insights](#subscriber-insights)
+              * [Upgrade & Downgrade Patterns](#upgrade-and-downgrade-patterns)
+              * [Inactivity Analysis](#inactivity-analysis)
+              * [Content Library Analysis](#content-library-analysis)
+              * [Content Consumption Behaviour](#content-consumption-behaviour)
+         * [Primary Insights](#primary-insights)
+         * [Secondary Insights](#secondary-insights)
     * [Business Related Terms](#business-related-terms)
     * [Key Learnings](#key-learnings)
 * [Understanding the Datasets](#understanding-the-datasets)
@@ -105,7 +107,9 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 ### Key Insights and Outcomes
 
-#### **Analysis of Metrics: Jotstar vs. Liocinema**
+### General Insights
+
+### **Analysis of Metrics: Jotstar vs. Liocinema**
 
 #### **User Base & Subscription Types**
 - **Liocinema has a much larger user base** than Jotstar, with **four times more users** (183.45K vs. 44.62K).  
@@ -490,9 +494,7 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 ***
 
-### Questions for Business Analysis
-
-#### Primary Questions
+### Primary Insights
 
 1. **Total Users & Growth Trends:** What is the total number of users for LioCinema and Jotstar, and how do they compare in terms of growth trends (January–November 2024)?
 2. **Content Library Comparison:** What is the total number of contents available on LioCinema vs. Jotstar? How do they differ in terms of language and content type?
@@ -513,7 +515,9 @@ A final report and presentation were prepared, summarizing insights with actiona
        ❖ Active duration of subscribers on their respective plans.
        ❖ Upgrades and downgrades during the period, ensuring revenue reflects the time spent under each plan.
 
-#### Further Analysis & Recommendations
+***
+
+### Secondary Insights
 
 1. What strategies can the merged platform implement to increase engagement among inactive users and convert them into active users?
 2. What type of brand campaigns should the merged platform launch to establish itself as the go-to OTT platform in India?
