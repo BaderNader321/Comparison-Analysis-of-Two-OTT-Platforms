@@ -26,6 +26,7 @@
               * [Content Consumption Behaviour](#content-consumption-behaviour)
          * [Primary Insights](#primary-insights)
          * [Secondary Insights](#secondary-insights)
+    * [Summary](#summary)
     * [Business Related Terms](#business-related-terms)
     * [Key Learnings](#key-learnings)
 * [Understanding the Datasets](#understanding-the-datasets)
@@ -747,6 +748,19 @@ A final report and presentation were prepared, summarizing insights with actiona
 4. How can the platform leverage partnerships with telecom companies to expand its subscriber base?
 5. What role can AI and machine learning play in personalizing the user experience and improving content discovery?
 6. Who should be the brand ambassador for the newly merged OTT platform (LioCinema-Jotstar) to effectively represent its identity and attract a diverse audience?
+
+***
+
+### Summary 
+
+The comparison analysis of LioCinema and Jotstar highlights key differences in **user engagement, content diversity, and revenue generation.**
+
+* Jotstar has a higher percentage of paying users and better engagement, while LioCinema has a larger but more inactive user base.
+* Jotstar’s content library is more balanced across genres, whereas LioCinema is heavily movie-focused.
+* Liocinema has strong traction in Tier 2 and Tier 3 cities, while Jotstar dominates in Tier 1.
+* Revenue insights suggest that increasing content variety and personalized user engagement can enhance profitability.
+
+These findings will guide the post-merger strategy to create a robust, market-leading streaming platform.
 
 ***
 
