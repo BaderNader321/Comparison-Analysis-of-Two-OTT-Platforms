@@ -497,14 +497,206 @@ A final report and presentation were prepared, summarizing insights with actiona
 ### Primary Insights
 
 1. **Total Users & Growth Trends:** What is the total number of users for LioCinema and Jotstar, and how do they compare in terms of growth trends (January–November 2024)?
+   
+> [!NOTE]
+> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+
+**Insights:**
+* Liocinema has over four times the users of Jotstar, indicating a more established market presence.
+* Both platforms are experiencing steady user growth, showing increasing engagement.
+* Jotstar, though smaller, has a strong upward trend, making it a potential high-growth platform.
+* Liocinema’s growth is slowing, possibly due to market saturation.
+* Jotstar’s growth is more organic, while Liocinema may need aggressive strategies to sustain its lead.
+
+**Recommendations:**
+* **Jotstar:**
+  * Increase marketing efforts to accelerate user acquisition.
+  * Expand partnerships to drive more engagement.
+  * Focus on user retention strategies to sustain long-term growth.
+* **Liocinema:**
+  * Improve engagement strategies to retain existing users.
+  * Offer exclusive content to differentiate from competitors.
+  * Strengthen marketing in underperforming segments.
+
 2. **Content Library Comparison:** What is the total number of contents available on LioCinema vs. Jotstar? How do they differ in terms of language and content type?
+
+> [!NOTE]
+> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+
+**Insights:**
+* Liocinema offers nearly twice as much content as Jotstar, positioning itself as a more comprehensive platform.
+* Jotstar’s content distribution is more balanced across movies, series, and sports, offering variety.
+* Liocinema is heavily focused on movies, with limited sports and series content.
+* Jotstar caters more to English and Hindi-speaking audiences, while Liocinema has a stronger regional language presence.
+* Liocinema’s limited diversity in content types could impact engagement over time.
+
+**Recommendations:**
+* **Jotstar:**
+  * Expand regional language content.
+  * Increase investment in exclusive content.
+  * Enhance sports and series offerings.
+* **Liocinema:**
+  * Diversify content to include more series and sports.
+  * Improve language-based personalization.
+  * Strengthen partnerships with regional content creators.
+
 3. **User Demographics:** What is the distribution of users by age group, city tier, and subscription plan for each platform?
+
+> [!NOTE]
+> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+
+**Insights:**
+* Jotstar has an older audience (25-34), while Liocinema is more popular among younger users (18-24).
+* Jotstar has a higher percentage of premium users, indicating stronger monetization.
+* Liocinema has a large free user base, suggesting a potential for monetization but lower conversion rates.
+* Jotstar performs well in Tier 1 cities, while Liocinema has more traction in Tier 3 cities.
+* The difference in audience demographics requires different engagement strategies.
+
+**Recommendations:**
+* **Jotstar:**
+  * Introduce pricing models tailored to younger audiences.
+  * Expand outreach to Tier 3 cities.
+  * Improve engagement for free users to increase conversions.
+* **Liocinema:**
+  * Strengthen premium-tier benefits to drive conversions.
+  * Personalize offers for younger users.
+  * Enhance content targeting for different city tiers.
+
 4. **Active vs. Inactive Users:** What percentage of LioCinema and Jotstar users are active vs. inactive? How do these rates vary by age group and subscription plan?
+
+> [!NOTE]
+> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+
+**Insights:**
+* Jotstar has a significantly higher percentage of active users (85%) compared to Liocinema (55%).
+* Liocinema’s large inactive user base signals engagement challenges.
+* Free users are the most inactive on both platforms, reducing monetization potential.
+* Jotstar’s premium users are more engaged than Liocinema’s premium users.
+* Re-engagement strategies could improve retention on both platforms.
+
+**Recommendations:**
+* **Jotstar:**
+  * Maintain engagement through personalized content.
+  * Strengthen loyalty programs for active users.
+  * Introduce gamification to boost retention.
+* **Liocinema:**
+  * Implement targeted re-engagement campaigns.
+  * Offer exclusive perks to retain users.
+  * Improve onboarding experiences for new users.
+
 5. **Watch Time Analysis:** What is the average watch time for LioCinema vs. Jotstar during the analysis period? How do these compare by city tier and device type?
+
+> [!NOTE]
+> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+
+**Insights:**
+* Jotstar users watch nearly 5x more content than Liocinema users.
+* Mobile is the dominant viewing device, but Jotstar has higher engagement on TV and laptops.
+* Tier 1 cities have the highest watch time on both platforms.
+* Liocinema’s lower watch time suggests content stickiness issues.
+* Strengthening content quality and user experience could improve engagement.
+
+**Recommendations:**
+* **Jotstar:**
+  * Optimize mobile experience for longer sessions.
+  * Enhance content discoverability.
+  * Invest in interactive features to boost engagement.
+* **Liocinema:**
+  * Improve mobile-friendly content delivery.
+  * Offer binge-worthy content for extended sessions.
+  * Optimize recommendations to increase watch time.
+
 6. **Inactivity Correlation:** How do inactivity patterns correlate with total watch time or average watch time? Are less engaged users more likely to become inactive?
+
+> [!NOTE]
+> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+
+**Insights:**
+* **Jotstar:**
+    * Users with lower average watch time (Free plan) have the highest inactivity rate, confirming that less engaged users are more likely to become inactive.
+    * VIP users, who watch more hours on average, have a lower inactivity rate than Free users but still higher than Premium users.
+    * Premium users have the highest average watch time per user and the lowest inactivity rate, showing that higher engagement correlates with lower inactivity.
+* **Liocinema:**
+    * Higher inactivity is associated with lower engagement (Free Plan users have both the highest inactivity rate and the lowest average watch time).
+    * Premium users have the lowest inactivity rate but the highest average watch time, confirming that users who spend more time watching content are less likely to become inactive.
+    * Basic users fall in between—lower engagement than Premium but better than Free, leading to a moderate inactivity rate.
+
+**Recommendations:**
+* **Jotstar:**
+    * Increase Engagement for Free Users: Implement personalized content recommendations and limited-time exclusive access to premium content to encourage longer watch times and reduce inactivity.
+    * Retain VIP Users: Offer loyalty rewards or exclusive in-app experiences to VIP users who show high watch time but still risk becoming inactive, ensuring they stay engaged and feel valued.
+    * Enhance Premium Plan Stickiness: Introduce long-term subscription discounts or bonus perks for Premium users to maintain their high engagement levels and prevent potential drop-offs.
+* **Liocinema:**
+    * Improve Free Plan Engagement: Offer personalized content recommendations or limited-time premium content trials to encourage Free users to watch more and stay engaged.
+    * Enhance Retention Strategies for Basic Users: Introduce loyalty-based incentives like exclusive content, discounts on upgrades, or interactive features to increase their watch time and reduce inactivity.
+    * Leverage Premium Users' High Engagement: Promote referral programs or family-sharing plans to encourage Premium users to bring in more engaged viewers while maintaining their high retention levels.
+
 7. **Downgrade Trends:** How do downgrade trends differ between LioCinema and Jotstar? Are downgrades more prevalent on one platform compared to the other?
+
+> [!NOTE]
+> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+
+**Insights:**
+* Downgrades are higher among younger users (18-24 for Liocinema, 25-34 for Jotstar).
+* Free users contribute the most downgrades, indicating dissatisfaction with premium content.
+* Subscription downgrades could impact revenue stability.
+* Improving perceived value can reduce downgrade rates.
+* Both platforms need better retention incentives.
+
+**Recommendations:**
+* **Jotstar:**
+    * Offer more value-driven VIP benefits.
+    * Improve customer engagement programs.
+    * Reduce churn through personalized incentives.
+* **Liocinema:**
+    * Strengthen premium content offerings.
+    * Introduce loyalty rewards for long-term subscribers.
+    * Enhance customer support for premium users.
+
 8. **Upgrade Patterns:** What are the most common upgrade transitions (e.g., Free to Basic, Free to VIP, Free to Premium) for LioCinema and Jotstar? How do these differ across platforms?
+
+> [!NOTE]
+> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+
+**Insights:**
+* Jotstar users mainly upgrade from VIP to Premium, while Free-to-VIP upgrades are slower.
+* Liocinema has strong Free-to-Basic conversions but struggles with Basic-to-Premium transitions.
+* Limited upgrade movement suggests pricing or content barriers.
+* Improving value perception can drive higher upgrades.
+* Better communication of premium benefits could enhance conversions.
+
+**Recommendations:**
+* **Jotstar:**
+    * Strengthen VIP-tier exclusivity.
+    * Provide targeted promotions for upgrades.
+    * Enhance premium user engagement.
+* **Liocinema:**
+    * Offer incentives for Basic users to upgrade.
+    * Improve messaging around premium features.
+    * Test alternative pricing models.
+
 9. **Paid Users Distribution:** How does the paid user percentage (e.g., Basic, Premium for LioCinema; VIP, Premium for Jotstar) vary across different platforms? Analyse the proportion of premium users in Tier 1, Tier 2, and Tier 3 cities and identify any notable trends or differences.
+
+> [!NOTE]
+> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+
+**Insights:**
+* Jotstar has a significantly higher percentage of paying users (70%) compared to Liocinema (34%).
+* Tier 1 dominates paid users for Jotstar, while Liocinema has more paying users from Tier 2 and 3 cities.
+* Premium-tier subscriptions drive revenue but require continuous value reinforcement.
+* Both platforms need localized strategies to increase conversions.
+* Paid user retention is crucial for long-term revenue stability.
+
+**Recommendations:**
+* **Jotstar:**
+    * Introduce flexible pricing for Tier 2 and 3 users.
+    * Improve localized marketing strategies.
+    * Enhance premium user perks.
+* **Liocinema:**
+    * Strengthen premium offerings in Tier 1.
+    * Offer discounts for Tier 2 and 3 users.
+    * Improve subscription onboarding experience.
+
 10. **Revenue Analysis:** Assume the following monthly subscription prices, calculate the total revenue generated by both platforms (LioCinema and Jotstar) for the analysis period (January to November 2024)
 
 <br>
@@ -514,6 +706,26 @@ A final report and presentation were prepared, summarizing insights with actiona
        ❖ Subscribers count under each plan.
        ❖ Active duration of subscribers on their respective plans.
        ❖ Upgrades and downgrades during the period, ensuring revenue reflects the time spent under each plan.
+
+> [!NOTE]
+> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+
+**Insights:**
+* Jotstar generates $8.29M, 55% more than Liocinema’s $5.38M, despite having fewer users.
+* Premium users drive most revenue, but Liocinema relies more on Basic-tier subscriptions.
+* Higher-tier cities contribute the most revenue.
+* Strengthening conversion rates can boost financial performance.
+* Subscription diversification could open new revenue streams.
+
+**Recommendations:**
+* **Jotstar:**
+    * Expand premium-tier offerings.
+    * Introduce bundled subscription packages.
+    * Optimize pricing strategies for different user segments.
+* **Liocinema:**
+    * Focus on converting Basic users to Premium.
+    * Test alternative revenue models.
+    * Strengthen upsell strategies.
 
 ***
 
