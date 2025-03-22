@@ -11,6 +11,7 @@
 
 ### Table of Contents
 * [Project Overview](#project-overview)
+    * [Objectives](#project-objectives)
     * [Business Problem](#business-problem)
     * [Approach & Methodology](#approach-and-methodology)
     * [Key Insights & Outcomes](#key-insights-and-outcomes)
@@ -72,6 +73,15 @@ Imagine yourself as Peter Pandey and perform the following tasks:
 
 ***
 
+### Project Objectives
+
+* **Analyze Platform Performance:** Compare user engagement, subscription trends, and financial performance between LioCinema and Jotstar.
+* **Understand User Behavior:** Identify patterns in content consumption, upgrade/downgrade trends, and inactivity rates.
+* **Optimize Content Strategy:** Evaluate content preferences by genre, language, and format to enhance platform appeal.
+* **Improve Monetization:** Assess paid vs. free user distribution and recommend strategies to maximize revenue and conversion rates.
+* **Support Merger Decisions:** Provide data-driven insights to help management create a competitive, unified OTT platform.
+
+***
 ### Approach and Methodology
 
 To analyze and compare the performance of LioCinema and Jotstar, we followed a structured approach:
