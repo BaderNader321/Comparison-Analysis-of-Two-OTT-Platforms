@@ -1,7 +1,7 @@
 # Comparison Analysis of OTT Platforms
 
 ### Quick Links
-  * [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTZlZmJiMjAtMDhjZC00ZDlkLTliMWItNTQyZTNkYjNiZjM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+  * [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWE3ZWRlOWItOTE1Ny00N2YyLTg3ZWYtY2JlMjA3NjczMWUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
   * [LinkedIn Post]()
   * [Presentation Video]()
   * Project Files
@@ -509,8 +509,7 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 1. **Total Users & Growth Trends:** What is the total number of users for LioCinema and Jotstar, and how do they compare in terms of growth trends (January–November 2024)?
    
-> [!NOTE]
-> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+> Links: [SQL Query](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/7c76478ad5a8eed1ffacce6d489d3b1bb5594d92/Solutions/02%20-%20Primary%20Insights/SQL%20Queries/Q1.sql)
 
 **Insights:**
 * Liocinema has over four times the users of Jotstar, indicating a more established market presence.
@@ -531,8 +530,7 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 2. **Content Library Comparison:** What is the total number of contents available on LioCinema vs. Jotstar? How do they differ in terms of language and content type?
 
-> [!NOTE]
-> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+> Links: [SQL Query](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/7c76478ad5a8eed1ffacce6d489d3b1bb5594d92/Solutions/02%20-%20Primary%20Insights/SQL%20Queries/Q2.sql)
 
 **Insights:**
 * Liocinema offers nearly twice as much content as Jotstar, positioning itself as a more comprehensive platform.
@@ -553,8 +551,7 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 3. **User Demographics:** What is the distribution of users by age group, city tier, and subscription plan for each platform?
 
-> [!NOTE]
-> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+> Links: [SQL Query](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/7c76478ad5a8eed1ffacce6d489d3b1bb5594d92/Solutions/02%20-%20Primary%20Insights/SQL%20Queries/Q3.sql)
 
 **Insights:**
 * Jotstar has an older audience (25-34), while Liocinema is more popular among younger users (18-24).
@@ -575,8 +572,7 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 4. **Active vs. Inactive Users:** What percentage of LioCinema and Jotstar users are active vs. inactive? How do these rates vary by age group and subscription plan?
 
-> [!NOTE]
-> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+> Links: [SQL Query](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/7c76478ad5a8eed1ffacce6d489d3b1bb5594d92/Solutions/02%20-%20Primary%20Insights/SQL%20Queries/Q4.sql)
 
 **Insights:**
 * Jotstar has a significantly higher percentage of active users (85%) compared to Liocinema (55%).
@@ -597,8 +593,7 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 5. **Watch Time Analysis:** What is the average watch time for LioCinema vs. Jotstar during the analysis period? How do these compare by city tier and device type?
 
-> [!NOTE]
-> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+> Links: [SQL Query](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/7c76478ad5a8eed1ffacce6d489d3b1bb5594d92/Solutions/02%20-%20Primary%20Insights/SQL%20Queries/Q5.sql)
 
 **Insights:**
 * Jotstar users watch nearly 5x more content than Liocinema users.
@@ -619,8 +614,7 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 6. **Inactivity Correlation:** How do inactivity patterns correlate with total watch time or average watch time? Are less engaged users more likely to become inactive?
 
-> [!NOTE]
-> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+> Links: [SQL Query](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/7c76478ad5a8eed1ffacce6d489d3b1bb5594d92/Solutions/02%20-%20Primary%20Insights/SQL%20Queries/Q6.sql)
 
 **Insights:**
 * **Jotstar:**
@@ -644,8 +638,7 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 7. **Downgrade Trends:** How do downgrade trends differ between LioCinema and Jotstar? Are downgrades more prevalent on one platform compared to the other?
 
-> [!NOTE]
-> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+> Links: [SQL Query](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/7c76478ad5a8eed1ffacce6d489d3b1bb5594d92/Solutions/02%20-%20Primary%20Insights/SQL%20Queries/Q7.sql)
 
 **Insights:**
 * Downgrades are higher among younger users (18-24 for Liocinema, 25-34 for Jotstar).
@@ -666,8 +659,7 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 8. **Upgrade Patterns:** What are the most common upgrade transitions (e.g., Free to Basic, Free to VIP, Free to Premium) for LioCinema and Jotstar? How do these differ across platforms?
 
-> [!NOTE]
-> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+> Links: [SQL Query](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/7c76478ad5a8eed1ffacce6d489d3b1bb5594d92/Solutions/02%20-%20Primary%20Insights/SQL%20Queries/Q8.sql)
 
 **Insights:**
 * Jotstar users mainly upgrade from VIP to Premium, while Free-to-VIP upgrades are slower.
@@ -688,8 +680,7 @@ A final report and presentation were prepared, summarizing insights with actiona
 
 9. **Paid Users Distribution:** How does the paid user percentage (e.g., Basic, Premium for LioCinema; VIP, Premium for Jotstar) vary across different platforms? Analyse the proportion of premium users in Tier 1, Tier 2, and Tier 3 cities and identify any notable trends or differences.
 
-> [!NOTE]
-> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+> Links: [SQL Query](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/7c76478ad5a8eed1ffacce6d489d3b1bb5594d92/Solutions/02%20-%20Primary%20Insights/SQL%20Queries/Q9.sql)
 
 **Insights:**
 * Jotstar has a significantly higher percentage of paying users (70%) compared to Liocinema (34%).
@@ -718,8 +709,7 @@ A final report and presentation were prepared, summarizing insights with actiona
        ❖ Active duration of subscribers on their respective plans.
        ❖ Upgrades and downgrades during the period, ensuring revenue reflects the time spent under each plan.
 
-> [!NOTE]
-> Links: [SQL Query]()  |  [CSV File]()  |  [Visuals]()
+> Links: [SQL Query](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/7c76478ad5a8eed1ffacce6d489d3b1bb5594d92/Solutions/02%20-%20Primary%20Insights/SQL%20Queries/Q10.sql)
 
 **Insights:**
 * Jotstar generates $8.29M, 55% more than Liocinema’s $5.38M, despite having fewer users.
