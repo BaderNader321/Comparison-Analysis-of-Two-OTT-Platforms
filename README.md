@@ -5,8 +5,8 @@
   * [LinkedIn Post]()
   * [Presentation Video]()
   * Project Files
-    * [PBIX](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/0508a68a7f26dd78946ec7bab6de86fb051f4c54/Solutions/Comparison%20Analysis%20of%20OTT%20Platforms.pbix)
-    * [PPT](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/0508a68a7f26dd78946ec7bab6de86fb051f4c54/Solutions/Presentation%20File.pptx)
+    * [PBIX](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/01%20-%20Materials/Dashboards%20-%20Comparison%20Analysis%20of%20OTT%20Platforms.pbix)
+    * [PPT](https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/01%20-%20Materials/Presentation%20-%20Comparison%20Analysis%20of%20OTT%20Platforms.pptx)
     * [PDF]()
 
 ### Table of Contents
@@ -867,7 +867,7 @@ This database contains detailed data on content, subscribers, and content consum
 
 ## Data Modelling
 
-<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8b60b0cf661710d92a1d29089c4c8b7e3283ffe6/Images/Data%20Model.png" class="center">
+<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/03%20-%20Images/Data%20Model.png" class="center">
 
 ## Dashboards
 
@@ -882,58 +882,72 @@ There are five dashboards providing insights into various aspects of the two pla
 ### Home Page
 
 <br>
-<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8b60b0cf661710d92a1d29089c4c8b7e3283ffe6/Images/Home%20Page.jpg" class="center">
+<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/03%20-%20Images/Home%20Page.jpg" class="center">
 
 ### Jotstar DB
 
 #### Subscriber Insights
 
 <br>
-<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8b60b0cf661710d92a1d29089c4c8b7e3283ffe6/Images/Jotstar_db%20Subscriber%20Insights.jpg" class="center">
+<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/03%20-%20Images/Jotstar/01%20-%20Jotstar_db%20Subscribers'%20Insights.jpg" class="center">
 
 #### Upgrade and Downgrade Patterns
 
 <br>
-<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8b60b0cf661710d92a1d29089c4c8b7e3283ffe6/Images/Jotstar_db%20Upgrade%20%26%20Downgrade%20Patterns.jpg" class="center">
+<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/03%20-%20Images/Jotstar/02%20-%20Jotstar_db%20Upgrade%20%26%20Downgrade%20Patterns.jpg" class="center">
 
 #### Inactivity Analysis
 
 <br>
-<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8b60b0cf661710d92a1d29089c4c8b7e3283ffe6/Images/Jotstar_db%20Inactivity%20Analysis.jpg" class="center">
+<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/03%20-%20Images/Jotstar/03%20-%20Jotstar_db%20Inactivity%20Analysis.jpg" class="center">
 
 #### Content Library Analysis
 
 <br>
-<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8b60b0cf661710d92a1d29089c4c8b7e3283ffe6/Images/Jotstar_db%20Content%20Library%20Analysis.jpg" class="center">
+<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/03%20-%20Images/Jotstar/04%20-%20Jotstar_db%20Content%20Library%20Analysis.jpg" class="center">
 
 #### Consumption Behavior
 
 <br>
-<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8b60b0cf661710d92a1d29089c4c8b7e3283ffe6/Images/Jotstar_db%20Consumption%20Behaviour.jpg" class="center">
+<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/03%20-%20Images/Jotstar/05%20-%20Jotstar_db%20Content%20Consumption%20Behaviour.jpg" class="center">
 
 ### Liocinema DB
 
 #### Subscriber Insights
 
 <br>
-<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8b60b0cf661710d92a1d29089c4c8b7e3283ffe6/Images/Liocinema_db%20Subscriber%20Insights.jpg" class="center">
+<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/03%20-%20Images/Liocinema/01%20-%20Liocinema_db%20Subscribers'%20Insights.jpg" class="center">
 
 #### Upgrade and Downgrade Patterns
 
 <br>
-<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8b60b0cf661710d92a1d29089c4c8b7e3283ffe6/Images/Liocinema_db%20Upgrade%20%26%20Downgrade%20Patterns.jpg" class="center">
+<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/03%20-%20Images/Liocinema/02%20-%20Liocinema_db%20Upgrade%20%26%20Downgrade%20Patterns.jpg" class="center">
 
 #### Inactivity Analysis
 
 <br>
-<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8b60b0cf661710d92a1d29089c4c8b7e3283ffe6/Images/Liocinema_db%20Inactivity%20Analysis.jpg" class="center">
+<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/03%20-%20Images/Liocinema/03%20-%20Liocinema_db%20Inactivity%20Analysis.jpg" class="center">
 
 #### Content Library Analysis
 
 <br>
-<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8b60b0cf661710d92a1d29089c4c8b7e3283ffe6/Images/Liocinema_db%20Content%20Library%20Analysis.jpg" class="center">
+<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/03%20-%20Images/Liocinema/04%20-%20Liocinema_db%20Content%20Library%20Analysis.jpg" class="center">
 
 #### Consumption Behavior
 
 <br>
-<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8b60b0cf661710d92a1d29089c4c8b7e3283ffe6/Images/Liocinema_db%20Consumption%20Behaviour.jpg" class="center">
+<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/03%20-%20Images/Liocinema/05%20-%20Liocinema_db%20Content%20Consumption%20Behaviour.jpg" class="center">
+
+### Revenue Analysis 
+
+**Based on the 10th question of** [primary insights](#primary-insights)
+
+#### Jotstar DB
+
+<br>
+<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/03%20-%20Images/Jotstar/06%20-%20Jotstar_db%20Revenue%20Analysis.jpg" class="center">
+
+#### Liocinema DB
+
+<br>
+<img src="https://github.com/BaderNader321/Comparison-Analysis-of-Two-OTT-Platforms/blob/8fd5bcf98fc3a48d90af7dd8394fa2dc82618f7d/Solutions/03%20-%20Images/Liocinema/06%20-%20Liocinema_db%20Revenue%20Analysis.jpg" class="center">
