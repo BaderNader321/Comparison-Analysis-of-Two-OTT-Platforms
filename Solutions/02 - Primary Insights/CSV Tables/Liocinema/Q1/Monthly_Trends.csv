@@ -1,0 +1,12 @@
+month,month_name,total_users,previous_month_users,monthly_user_growth
+1,January,6758,,
+2,February,7404,6758,9.5590
+3,March,8397,7404,13.4117
+4,April,9759,8397,16.2201
+5,May,11977,9759,22.7277
+6,June,13768,11977,14.9537
+7,July,16161,13768,17.3809
+8,August,19247,16161,19.0954
+9,September,23873,19247,24.0349
+10,October,29105,23873,21.9160
+11,November,36997,29105,27.1156

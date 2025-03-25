@@ -1,0 +1,4 @@
+user_status,current_subscription_plan,total_watch_time_hrs,avg_total_watch_time_hrs,inactive_users,inactive_users_pct,pct_contribution
+Inactive,Free,150727.0167,16.13952422,3113,6.98,46.80
+Inactive,VIP,323875.9167,40.92442718,2638,5.91,39.66
+Inactive,Premium,180933.2167,66.93792699,901,2.02,13.54

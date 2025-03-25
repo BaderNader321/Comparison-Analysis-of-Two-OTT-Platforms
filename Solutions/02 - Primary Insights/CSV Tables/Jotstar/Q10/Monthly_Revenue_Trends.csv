@@ -1,0 +1,12 @@
+month,month_name,total_revenue,monthly_user_growth
+1,January,745948,
+2,February,749399,0.4626
+3,March,739271,-1.3515
+4,April,751749,1.6879
+5,May,743713,-1.0690
+6,June,752110,1.1291
+7,July,756469,0.5796
+8,August,733416,-3.0474
+9,September,769646,4.9399
+10,October,765724,-0.5096
+11,November,784798,2.4910

@@ -1,0 +1,4 @@
+transition_type,subscription_plan,new_subscription_plan,total_users,pct_contribution,pct_from_total_users
+Upgraded Users,Free,Basic,2078,50.01,1.13
+Upgraded Users,Basic,Premium,1362,32.78,0.74
+Upgraded Users,Free,Premium,715,17.21,0.39
