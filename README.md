@@ -779,7 +779,11 @@ These findings will guide the post-merger strategy to create a robust, market-le
 
 ### Key Learnings
 
-
+1. **Comparative Performance Analysis** – Learned how to analyze key business metrics (e.g., watch hours, subscriptions, and churn rate) to compare the performance of two OTT platforms effectively.
+2. **Dynamic Dashboard Optimization** – Implemented dynamic titles and interactive slicers in Power BI to enhance user experience and enable seamless navigation between platform views.
+3. **Data Integration Challenges** – Understood the complexities of integrating two separate databases while maintaining data consistency and ensuring accurate cross-platform comparisons.
+4. **KPI Benchmarking** – Gained insights into industry benchmarks for OTT performance metrics and how different factors (e.g., content diversity, pricing strategy) impact user engagement and revenue.
+5. **Performance Optimization** – Optimized the dashboard by reducing load times through efficient data modeling, proper DAX measures, and limiting unnecessary visuals for a smoother experience.
 
 ***
 
